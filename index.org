@@ -1,0 +1,14 @@
+#+TITLE: motto
+#+AUTHOR: wlianfu
+#+DATE: 2023
+#+EMAIL: wlianfu@163.com
+#+OPTIONS: motto
+
+-----
+
+***** ...
+
++ 生如蝼蚁，当立鸿鹄之志
++ 名如纸薄，应有不屈之心...
+
+-----

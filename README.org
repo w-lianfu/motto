@@ -1,0 +1,9 @@
+#+TITLE: motto
+#+AUTHOR: wlianfu
+#+DATE: 2023
+#+EMAIL: wlianfu@163.com
+#+OPTIONS: motto
+
+-----
++ welcome
+-----
